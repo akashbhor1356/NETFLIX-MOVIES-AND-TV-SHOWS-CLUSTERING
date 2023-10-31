@@ -2,7 +2,7 @@
   <img src="Images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
 </p>
 <h1 align="center"> NETFLIX MOVIES AND TV SHOWS CLUSTERING </h1>
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
+<h3 align="center">  Verfied Project - <>
 
 <p align="center"> 
 <img src="Gif/netflix-netflix-logo.gif" alt="Animated gif" height="382px">
@@ -27,7 +27,6 @@
   <li><b>NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv</b> - Input dataset having information about different shows/movies available on Netflix.</li>
 </ul>
 <h4>Data Source:</h4>
-<li><b>https://learn.almabetter.com/courses/take/team-capstone-projects/texts/27395237-netflix-movies-and-tv-shows-clustering.</li>
 <ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
