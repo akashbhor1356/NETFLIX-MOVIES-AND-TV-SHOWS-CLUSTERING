@@ -2,7 +2,7 @@
   <img src="Images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
 </p>
 <h1 align="center"> NETFLIX MOVIES AND TV SHOWS CLUSTERING </h1>
-<h3 align="center">  Verfied Project - <>
+<h3 align="center">  Verfied Project 
 
 <p align="center"> 
 <img src="Gif/netflix-netflix-logo.gif" alt="Animated gif" height="382px">
